@@ -1,0 +1,33 @@
+name,type,description,qty
+Annie,Hen,{{name}} lays 1 Egg Each Turn,1
+Beatrice,Hen,{{name}} lays 1 Egg Each Turn,1
+Betsy,Hen,{{name}} lays 1 Egg Each Turn,1
+Edna,Hen,{{name}} lays 1 Egg Each Turn,1
+Daisy,Hen,{{name}} lays 1 Egg Each Turn,1
+Daphne,Hen,{{name}} lays 1 Egg Each Turn,1
+Florence,Hen,{{name}} lays 1 Egg Each Turn,1
+Fran,Hen,{{name}} lays 1 Egg Each Turn,1
+Georgia,Hen,{{name}} lays 1 Egg Each Turn,1
+Gretta,Hen,{{name}} lays 1 Egg Each Turn,1
+Gloria,Hen,{{name}} lays 1 Egg Each Turn,1
+Hazel,Hen,{{name}} lays 1 Egg Each Turn,1
+June,Hen,{{name}} lays 1 Egg Each Turn,1
+Loretta,Hen,{{name}} lays 1 Egg Each Turn,1
+Mabel,Hen,{{name}} lays 1 Egg Each Turn,1
+Maude,Hen,{{name}} lays 1 Egg Each Turn,1
+Opal,Hen,{{name}} lays 1 Egg Each Turn,1
+Pearl,Hen,{{name}} lays 1 Egg Each Turn,1
+Sandy,Hen,{{name}} lays 1 Egg Each Turn,1
+Sadie,Hen,{{name}} lays 1 Egg Each Turn,1
+Tillie,Hen,{{name}} lays 1 Egg Each Turn,1
+Goldie,Hen,{{name}} lays 1 Egg Each Turn,1
+Gus,Rooster,"While {{name}} is in your Hen House, no Fox may enter.",1
+Rusty,Rooster,"While {{name}} is in your Hen House, no Fox may enter.",1
+Hank,Rooster,"While {{name}} is in your Hen House, no Fox may enter.",1
+Cooper,Rooster,"While {{name}} is in your Hen House, no Fox may enter.",1
+Wallace,Rooster,"While {{name}} is in your Hen House, no Fox may enter.",1
+Larry,Rooster,"While {{name}} is in your Hen House, no Fox may enter.",1
+Ash,Fox,Each turn {{name}} eats one Egg from your Basket.,1
+May,Fox,Discard one Hen from your Hen House at the start of each turn.,1
+Pepper,Fox,"If {{name}} is in your Hen House, your Hens only lay 1 Egg each turn.",1
+Simon,Fox,"While {{name}} is in your Hen House, you may not hatch any new Hens.",1

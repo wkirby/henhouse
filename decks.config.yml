@@ -1,0 +1,13 @@
+hens: &base
+  width: 600
+  height: 825
+  explode: 'qty'
+  pdf:
+    trim_lines: true
+    bleed: 37.5
+  format:
+    - png
+    - pdf
+
+eggs:
+  <<: *base

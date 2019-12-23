@@ -1,0 +1,12 @@
+name,type,description,qty,,,
+Egg,Egg,You may keep this egg and place 1 egg in your basket or hatch it into 1 hen.,12,,Total,44
+Double Yolk,Egg,You may keep this egg and place 2 eggs in your basket or hatch it into 2 hens.,4,,,
+Speckled Egg,Egg,You may keep this egg and place 2 eggs in your basket or hatch it into 1 hen.,6,,,
+Bad Egg,Egg,This egg is no good. Discard it at the end of your turn.,4,,,
+Rotten Egg,Egg,Play this egg to move a Fox to the Hen House of your choice.,4,,,
+Fly the Coop,Event,One of your hens has escaped! Choose one Hen to discard. You may not discard a Fox.,4,,,
+Chicken Run,Event,Everyone's hens have escaped! Collect all Hens and shuffle them. Redistribute the Hens evenly between all players.,1,,,
+Bakers Dozen,Event,"Give this card to the player of your choice. To win, they must now collect 13 eggs to win.",1,,,
+Souffle,Recipe,Yum! Use 3 eggs from your basket.,2,,,
+Omelette,Recipe,Tasty! Use 2 eggs from your basket.,2,,,
+Fried Egg,Recipe,Delish! Use 1 egg from your basket.,4,,,
