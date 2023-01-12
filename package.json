@@ -6,7 +6,7 @@
   },
   "private": true,
   "devDependencies": {
-    "duck-cli": "^1.5.0"
+    "duck-cli": "^1.5.2"
   },
   "dependencies": {
     "@emotion/core": "^10.0.10",
